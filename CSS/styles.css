@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background-color: #1E212D;
+}
+
+.header{
+    margin: 2% 10%;
+}
+
+#main-heading{
+    margin-top: 0;
+    font-family: 'Righteous', cursive;
+    color: #FAF3E0;
+    font-size: 4rem;
+}
+
+#heading-text{
+    padding-top: 2%;
+    font-family: 'VT323', monospace;
+    color: #EABF9F;
+    font-size: 1.9rem;
+}
+
+.second-container{
+    margin: 0;
+}
+
+#notify{
+    margin: 2% 0;
+    min-height:fit-content;
+    text-align: center;
+    background-color: #B68973;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 4.5rem;
+}
+
+.buttons{
+    margin: 2% 10% 3%;
+    text-align: center;
+}
+
+.lens{
+    margin: 4% auto;
+    height: 200px;
+    width: 200px;
+    border: solid 15px #000;
+    border-radius: 50%;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+
+footer{
+    margin-bottom: 0;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: #FAF3E0;
+    font-size: 1.3rem;
+}
+
+.pressed{
+    opacity: 0.5;
+}
+
+.game-over{
+    background-color: red;
+    opacity: 0.8;
+}
